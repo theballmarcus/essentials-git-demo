@@ -1,0 +1,4 @@
+"0","SC <- Space_Corrected"
+"0",""
+"0","ggplot(data = SC) +"
+"0","  geom_bar(mapping = aes(x = Status_Mission))"
