@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600283907167.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3027F0F8",
+    "lastKnownWriteTime" : 7737014183864132390,
+    "last_content_update" : 1600283907167,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5E2D1D00",
+        "caption" : "Space_Processed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Space_Processed&cache_key=5E2D1D00",
+        "displayedObservations" : 4324,
+        "environment" : "",
+        "expression" : "Space_Processed",
+        "object" : "Space_Processed",
+        "preview" : 0,
+        "totalObservations" : 4324,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

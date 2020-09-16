@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600283975294.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "67A0E936",
+    "lastKnownWriteTime" : 7737014183864132390,
+    "last_content_update" : 1600283975294,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BE1196A4",
+        "caption" : "Space_Corrected",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Space_Corrected&cache_key=BE1196A4",
+        "displayedObservations" : 4324,
+        "environment" : "",
+        "expression" : "Space_Corrected",
+        "object" : "Space_Corrected",
+        "preview" : 0,
+        "totalObservations" : 4324,
+        "variables" : 9
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
