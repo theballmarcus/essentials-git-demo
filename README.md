@@ -4,7 +4,7 @@ Space dataset demonstration
 
 This is a demonstration exercise involving:
 - this git repository
-- open source dataset
+- open source dataset (source: https://www.kaggle.com/agirlcoding/all-space-missions-from-1957)
 - python &amp; R notebooks 
 - ..possibly some fancy tableau images :)
 
