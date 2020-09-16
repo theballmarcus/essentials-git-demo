@@ -1,6 +1,5 @@
 Space dataset demonstration
 ===========================
-### repository: essentials-git-demo
 
 This is a demonstration exercise involving:
 - this git repository
