@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600432833519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "63038460",
+    "id" : "F6ECEDEF",
+    "lastKnownWriteTime" : 1600433027,
+    "last_content_update" : 1600433027256,
+    "path" : "~/Documents/BiBC/Essentials/essentials-git-demo/R/MyFirstMD.Rmd",
+    "project_path" : "MyFirstMD.Rmd",
+    "properties" : {
+        "cursorPosition" : "61,37",
+        "scrollLine" : "38",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
