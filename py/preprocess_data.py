@@ -11,9 +11,9 @@ fileout = ''
 
 with open(sourcefile, 'r') as filehandle:
 	line = filehandle.readline().replace(' | ',',').strip().split(',')
-	headers += ','.join(line[1:5] + ['Project_Name'] + line[6:]) + '\n'
+	headers += ','.join(line[1:6] + ['Project_Name'] + line[6:]) + '\n'
 	while len(line) > 1:
-		line = filehandle.readline().replace(' | ',',').strip().split(',')[1:]
+		line = filehandle.readline().replace(' | ',',').strip().split(',')
 		fileout += ','.join(line[1:]) + '\n'
 
 with open(outputfile, 'w') as filehandle:
