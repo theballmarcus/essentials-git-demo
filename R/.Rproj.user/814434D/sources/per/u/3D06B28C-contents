@@ -25,3 +25,4 @@ ggplot(Space_Corrected, aes(x = factor(1), fill = Status_Mission)) +
   geom_bar(width = 1) +
   scale_fill_brewer(palette="Blues")+
   coord_polar(theta = "y", start = 0)
+
